@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ROEUN Pacharoth</h1>
-<h3 align="center">I'm a **Software Developer** from Cambodia 🇰🇭 building web and mobile apps with a focus on efficiency and user experience</h3>
+<h3 align="center">I'm a Software Developer from Cambodia 🇰🇭 building web and mobile apps with a focus on efficiency and user experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacharoth&label=Profile%20views&color=0e75b6&style=flat" alt="pacharoth" /> </p>
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roeun-pacharoth-a8a933218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roeun-pacharoth-a8a933218/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roeun-pacharoth-a8a933218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roeun-pacharoth-a8a933218" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
