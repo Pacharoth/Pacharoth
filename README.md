@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Livewire, Flutter**
 
-- 👯 I’m looking to collaborate on **SMIS**
-
 - 📫 How to reach me **pacharothroeun01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
