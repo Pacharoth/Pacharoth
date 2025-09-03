@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **SMIS**
 
-- 📫 How to reach me **pacharothroeun01@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/roeun-pacharoth-a8a933218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roeun pacharoth" height="30" width="40" /></a>
