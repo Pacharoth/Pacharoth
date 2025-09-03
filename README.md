@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ROEUN Pacharoth</h1>
+[<h1 align="center">Hi 👋, I'm ROEUN Pacharoth</h1>
 <h3 align="center">I'm a **Software Developer** from Cambodia 🇰🇭 building web and mobile apps with a focus on efficiency and user experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacharoth&label=Profile%20views&color=0e75b6&style=flat" alt="pacharoth" /> </p>
@@ -23,3 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pacharoth&" alt="pacharoth" /></p>
 
+](https://www.linkedin.com/in/roeun-pacharoth-a8a933218/)
