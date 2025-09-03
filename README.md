@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ROEUN Pacharoth</h1>
-<h3 align="center">I'm a passionate **Software Developer** from Cambodia 🇰🇭. With a strong foundation in both web and mobile development, I thrive on building efficient, scalable, and user-friendly applications. I believe in continuous learning and strive to stay updated with the latest technologies to deliver high-quality solutions.</h3>
+<h3 align="center">I'm a Software Developer from Cambodia 🇰🇭 building web and mobile apps with a focus on efficiency and user experience.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacharoth&label=Profile%20views&color=0e75b6&style=flat" alt="pacharoth" /> </p>
 
